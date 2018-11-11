@@ -1,0 +1,46 @@
+english.
+there is 5 users their info is below. make a new database named stock and add in the sql code from the file stock.sql.
+
+danish guide.
+Aktiespil
+Lavet af Tobias Olrik Birck Kristensen
+
+der er lavet 5 brugere. der er også lavet et registreringsystem til at lave flere brugere.
+dem der er lavet er skrevet længere nede samt admin accounten
+
+------------------------------------------
+Download instrukser
+------------------------------------------
+Phpmyadmin
+lav en ny database under phpmyadmin og kald den for "stock".
+Herfra går du ind på databasen stock og klikker på sql og indsætter dataen fra tekstdokumentet kaldet "stock"
+der ligger her i mappen
+
+Hjemmesiden
+Indsæt mappen "Aktiespillet" ind i htcdocs og så burde du bare kunne gå ind på localhost fra browseren og det burde virke
+------------------------------------------
+admin account
+------------------------------------------
+Username: admin
+password: admin
+------------------------------------------
+
+
+------------------------------------------
+Brugere
+------------------------------------------
+Username: user1
+password: password
+
+Username: user2
+password: password
+
+Username: tobias
+password: tobias
+
+Username: aktieguden
+password: gud
+
+Username: user1
+password: password
+------------------------------------------
